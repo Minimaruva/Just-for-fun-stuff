@@ -67,7 +67,7 @@ table, th, td {
     table-layout: fixed;
 }
 .selected {
-    background-color: #f36f48;
+    background-color: #4af8a7;
     font-weight: bold;
     color: white;
 }
@@ -99,7 +99,7 @@ iframe, audio {
 hr {
     border: 0;
     height: 1px;
-    background: #f36f48;
+    background: #86f065;
 }
 form {
     text-align: center;
